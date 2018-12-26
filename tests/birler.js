@@ -1,8 +1,8 @@
 /* jshint esversion: 6, curly: true, eqeqeq: true, forin: true */
 
 /***********************************************************************************
-* Title: Hamsters.js                                                               *
-* Description: 100% Vanilla Javascript Multithreading & Parallel Execution Library *
+* Title: Birler.js                                                                 *
+* Description: 100% Vanilla Javascript Searchable Logging System                   *
 * Author: Austin K. Smith                                                          *
 * Contact: austin@asmithdev.com                                                    *  
 * Copyright: 2015 Austin K. Smith - austin@asmithdev.com                           * 
