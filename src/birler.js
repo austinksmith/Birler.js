@@ -78,7 +78,7 @@ class birlerLogger {
   */
   generateTimeStampedMessage(eventType, message) {
     let record = `Birler.js v${this.version} ${eventType}: ${message} @ ${Date.now()}`
-    this.saveLogEntry(type.toLowerCase(), record);
+    this.saveLogEntry(eventType.toLowerCase(), record);
     return record;
   }
 
