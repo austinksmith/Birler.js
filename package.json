@@ -33,7 +33,7 @@
     "karma-jasmine": "^1.0.2",
     "karma-phantomjs-launcher": "^1.0.2",
     "karma-webpack": "^2.0.6",
-    "webpack": "^1.13.2"
+    "webpack": "^5.94.0"
   },
   "dependencies": {},
   "directories": {
